@@ -7,8 +7,7 @@ class Solution {
             dfs(image,sr,sc,color,in);
         }
         return image;
-
-        
+      
     }
     public static void dfs(int [][] image,int r,int c,int color,int in){
         int m=image.length;
@@ -19,14 +18,6 @@ class Solution {
         dfs(image,r,c+1,color,in);
         dfs(image,r,c-1,color,in);
         dfs(image,r-1,c,color,in);
-
-
-       
-
-        
-
-
-
 
     }
 }
