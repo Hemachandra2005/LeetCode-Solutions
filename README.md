@@ -15,6 +15,7 @@ My solutions to LeetCode algorithmic problems in Java.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0198-house-robber) |
 ## Depth-First Search
@@ -44,4 +45,12 @@ My solutions to LeetCode algorithmic problems in Java.
 | [0695-max-area-of-island](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
