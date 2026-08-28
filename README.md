@@ -19,6 +19,7 @@ My solutions to LeetCode algorithmic problems in Java.
 | [0070-climbing-stairs](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0198-house-robber) |
+| [0678-valid-parenthesis-string](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 ## Depth-First Search
 |  |
@@ -55,4 +56,20 @@ My solutions to LeetCode algorithmic problems in Java.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+## String
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
+## Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
