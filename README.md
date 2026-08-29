@@ -11,6 +11,7 @@ My solutions to LeetCode algorithmic problems in Java.
 | [0120-triangle](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0221-maximal-square) |
 | [0695-max-area-of-island](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -23,6 +24,7 @@ My solutions to LeetCode algorithmic problems in Java.
 | [0119-pascals-triangle-ii](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0198-house-robber) |
+| [0221-maximal-square](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0221-maximal-square) |
 | [0678-valid-parenthesis-string](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 ## Depth-First Search
@@ -49,6 +51,7 @@ My solutions to LeetCode algorithmic problems in Java.
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0221-maximal-square) |
 | [0695-max-area-of-island](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
