@@ -6,6 +6,7 @@ My solutions to LeetCode algorithmic problems in Java.
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0200-number-of-islands) |
@@ -17,6 +18,7 @@ My solutions to LeetCode algorithmic problems in Java.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0678-valid-parenthesis-string](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
