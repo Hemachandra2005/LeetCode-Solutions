@@ -15,6 +15,7 @@ My solutions to LeetCode algorithmic problems in Java.
 | [0695-max-area-of-island](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0931-minimum-falling-path-sum](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1020-number-of-enclaves](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Dynamic Programming
@@ -28,6 +29,7 @@ My solutions to LeetCode algorithmic problems in Java.
 | [0221-maximal-square](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0221-maximal-square) |
 | [0678-valid-parenthesis-string](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0931-minimum-falling-path-sum](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Depth-First Search
 |  |
@@ -56,6 +58,7 @@ My solutions to LeetCode algorithmic problems in Java.
 | [0221-maximal-square](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0221-maximal-square) |
 | [0695-max-area-of-island](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [0931-minimum-falling-path-sum](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1020-number-of-enclaves](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Math
