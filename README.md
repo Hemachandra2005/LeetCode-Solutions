@@ -18,6 +18,7 @@ My solutions to LeetCode algorithmic problems in Java.
 | [0931-minimum-falling-path-sum](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1020-number-of-enclaves](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -65,6 +66,7 @@ My solutions to LeetCode algorithmic problems in Java.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Memoization
 |  |
 | ------- |
