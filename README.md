@@ -19,6 +19,7 @@ My solutions to LeetCode algorithmic problems in Java.
 | [1020-number-of-enclaves](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Dynamic Programming
 |  |
@@ -91,5 +92,6 @@ My solutions to LeetCode algorithmic problems in Java.
 ## Prefix Sum
 |  |
 | ------- |
+| [3903-smallest-stable-index-i](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
