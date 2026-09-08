@@ -71,6 +71,7 @@ My solutions to LeetCode algorithmic problems in Java.
 | ------- |
 | [0070-climbing-stairs](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3870-count-commas-in-range](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Memoization
 |  |
