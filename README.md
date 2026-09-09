@@ -6,6 +6,7 @@ My solutions to LeetCode algorithmic problems in Java.
 ## Array
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0120-triangle) |
@@ -40,6 +41,7 @@ My solutions to LeetCode algorithmic problems in Java.
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0733-flood-fill) |
@@ -60,6 +62,7 @@ My solutions to LeetCode algorithmic problems in Java.
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0221-maximal-square) |
 | [0695-max-area-of-island](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
@@ -81,6 +84,7 @@ My solutions to LeetCode algorithmic problems in Java.
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0678-valid-parenthesis-string](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0942-di-string-match](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0942-di-string-match) |
 ## Stack
@@ -105,4 +109,8 @@ My solutions to LeetCode algorithmic problems in Java.
 |  |
 | ------- |
 | [0942-di-string-match](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0942-di-string-match) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
