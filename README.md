@@ -87,6 +87,7 @@ My solutions to LeetCode algorithmic problems in Java.
 | [0079-word-search](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0678-valid-parenthesis-string](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0942-di-string-match](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0942-di-string-match) |
+| [3498-reverse-degree-of-a-string](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -113,4 +114,8 @@ My solutions to LeetCode algorithmic problems in Java.
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0079-word-search) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
