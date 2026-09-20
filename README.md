@@ -74,6 +74,7 @@ My solutions to LeetCode algorithmic problems in Java.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0168-excel-sheet-column-title](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -85,6 +86,7 @@ My solutions to LeetCode algorithmic problems in Java.
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0079-word-search) |
+| [0168-excel-sheet-column-title](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0678-valid-parenthesis-string](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0942-di-string-match](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0942-di-string-match) |
 | [3498-reverse-degree-of-a-string](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
