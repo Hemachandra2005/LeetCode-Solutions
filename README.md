@@ -85,6 +85,7 @@ My solutions to LeetCode algorithmic problems in Java.
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0168-excel-sheet-column-title](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0678-valid-parenthesis-string](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
@@ -93,6 +94,7 @@ My solutions to LeetCode algorithmic problems in Java.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 ## Greedy
 |  |
@@ -102,6 +104,7 @@ My solutions to LeetCode algorithmic problems in Java.
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 ## Prefix Sum
 |  |
