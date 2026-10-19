@@ -21,6 +21,7 @@ My solutions to LeetCode algorithmic problems in Java.
 | [1020-number-of-enclaves](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2057-smallest-index-with-equal-value](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/2057-smallest-index-with-equal-value) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
@@ -123,4 +124,12 @@ My solutions to LeetCode algorithmic problems in Java.
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+## Sorting
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
