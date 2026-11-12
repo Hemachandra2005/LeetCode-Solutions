@@ -22,6 +22,7 @@ My solutions to LeetCode algorithmic problems in Java.
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2057-smallest-index-with-equal-value](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/2057-smallest-index-with-equal-value) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Hemachandra2005/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
